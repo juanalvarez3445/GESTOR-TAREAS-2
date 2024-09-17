@@ -1,0 +1,17 @@
+.info-tasks {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000;
+    font-size: 2rem;  
+    text-shadow: -2px -2px #9aa099;
+  }
+  
+  .task-pendig{
+    color: #00000000;
+    font-weight: 800;
+  }
+  
+  .task-done {
+    color: #053005;
+    font-weight: 800;
+}
